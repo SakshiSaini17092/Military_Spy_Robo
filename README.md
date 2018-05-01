@@ -57,5 +57,16 @@ iv) echo -- 5;
 v) servo pin --9;
 vcc and gnd are the same.
 
-The code for the same is included in "BLE"
+The code for the same is included in "BL_Read_Write.ino".
+
+I have aslo included a video "demo" to show the working of my model.
+
+And a video of a 3D - model I made.
+
+
+THANK YOU !!
+HOPE YOU LIKE IT!
+
+If you have any Queries you can mail me @ sakshi17092@iiitd.ac.n
+
 
