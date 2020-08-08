@@ -70,4 +70,6 @@ And a video of a 3D - model I made.
 For more Information Visit
 `https://sainisakshi7200.wixsite.com/militaryspyrobo`
 
+![](https://github.com/SakshiSaini17092/Military_Spy_Robo/blob/master/Screenshots/image1.jpeg)
+![](https://github.com/SakshiSaini17092/Military_Spy_Robo/blob/master/Screenshots/image2.jpeg)
 
