@@ -2,9 +2,9 @@
 Instructables to make Prototype for a Military Spy Robot
 -----
 
-Made A PROTOTYPE FOR MILITARY SPY ROBOT
+Made a prototype for MILITARY SPY ROBOT
 
-HERE ARE THE INSTRUCTIONS:
+Here are the Instructions:
 ## 1. TRANSMITTER:
 
 I have use TX 433 MHZ module and a joystick module for transmission, as it is easy to use and can be easily work with ardunio, I have used ardunio UNO but you can use nano also.
